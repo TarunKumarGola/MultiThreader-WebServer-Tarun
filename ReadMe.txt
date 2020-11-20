@@ -1,5 +1,5 @@
 Multi-Threaded Web Server
-Tarun Kumar Gola
+Tarun Kumar Gola and Sushant Dev
 
 This implementation uses simple Java Sockets and predefined HTML pages.
 The implementation is capable of opening multiples web-pages on a single server/port with the help of Threads.
